@@ -20,7 +20,7 @@
 
 <div  style="margin: 0 auto;">
   <pre>
-🎓 Pursuing a Bachelor of Technology (Computer Science) at the University of Lucknow.<br>
+🎓 Pursuing B.Tech (Computer Science) at the University of Lucknow.<br>
 💻 Self-taught Full Stack Developer.<br>
 🔭 Currently working on web development projects.<br>
 ⚙️ Main languages: C++, JavaScript.
